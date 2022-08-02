@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.failed {
+	color:red;
+}
+
+h3 {
+	color:blue;
+}
+
+.logout {
+	color:green;
+}
